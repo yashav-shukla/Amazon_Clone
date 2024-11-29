@@ -1,4 +1,4 @@
-# <span style="color:red">[Myntra] Clone of [Amazon.com](https://www.amazoncom/) Website </span>
+# <span style="color:red">[Amazon] Clone of [Amazon.com](https://www.amazoncom/) Website </span>
 
 # <span style="color:red"> Welcome to Amazon_Clone</span>
 
