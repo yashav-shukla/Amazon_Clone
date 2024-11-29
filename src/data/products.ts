@@ -1,0 +1,48 @@
+import { Product } from '../types';
+
+export const FEATURED_PRODUCTS: Product[] = [
+  {
+    id: '1',
+    name: 'Echo Dot (5th Gen)',
+    brand: 'Amazon',
+    price: 4999,
+    originalPrice: 5999,
+    discount: 17,
+    category: 'electronics',
+    image: 'https://images.unsplash.com/photo-1544428571-7f7c11e99998?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    description: 'Smart speaker with Alexa | Best-selling smart speaker ever',
+  },
+  {
+    id: '2',
+    name: 'Fire TV Stick 4K',
+    brand: 'Amazon',
+    price: 3999,
+    originalPrice: 5999,
+    discount: 33,
+    category: 'electronics',
+    image: 'https://images.unsplash.com/photo-1544427920-c49ccfb85579?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    description: 'Streaming device with Wi-Fi 6 and Alexa Voice Remote',
+  },
+  {
+    id: '3',
+    name: 'Kindle Paperwhite',
+    brand: 'Amazon',
+    price: 13999,
+    originalPrice: 15999,
+    discount: 13,
+    category: 'electronics',
+    image: 'https://images.unsplash.com/photo-1592434134753-a70f1536e912?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    description: '6.8" display, 8GB, Now with a 6.8" display and adjustable warm light',
+  },
+  {
+    id: '4',
+    name: 'Ring Video Doorbell',
+    brand: 'Ring',
+    price: 8999,
+    originalPrice: 12999,
+    discount: 31,
+    category: 'electronics',
+    image: 'https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    description: '1080p HD video, improved motion detection, and easy installation',
+  },
+];
